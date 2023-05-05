@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktemplate"]=self["webpackChunktemplate"]||[]).push([[131],{5131:function(n,e,t){t.r(e),t.d(e,{default:function(){return f}});var a=t(3396);const c={class:"container"},r=(0,a._)("p",null,"Vacancy page",-1),u=[r];function s(n,e){return(0,a.wg)(),(0,a.iD)("div",c,u)}var l=t(89);const i={},p=(0,l.Z)(i,[["render",s]]);var f=p}}]);
+//# sourceMappingURL=131.583f67f5.js.map

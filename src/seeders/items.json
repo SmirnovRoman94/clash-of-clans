@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "Archer",
+      "alias" : "archer",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam possimus provident at velit natus corrupti quidem harum delectus soluta expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "img" : "archer.png",
+      "lvl": 4,
+      "info" : [
+        { "title": "training", "value": 25 },
+        { "title": "speed", "value": 24 },
+        { "title": "cost", "value": 300 }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Wizard",
+      "alias" : "wizard",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam possimus provident at velit natus corrupti quidem harum delectus soluta expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "img" : "wizard.png",
+      "lvl": 5,
+      "info" : [
+        { "title": "training", "value": 35 },
+        { "title": "speed", "value": 26 },
+        { "title": "cost", "value": 210 }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Barbarian",
+      "alias" : "barbarian",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam possimus provident at velit natus corrupti quidem harum delectus soluta expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "img" : "barbarian.png",
+      "lvl": 4,
+      "info" : [
+        { "title": "training", "value": 43 },
+        { "title": "speed", "value": 29 },
+        { "title": "cost", "value": 350 }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Giant",
+      "alias" : "giant",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam possimus provident at velit natus corrupti quidem harum delectus soluta expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "img" : "giant.png",
+      "lvl": 6,
+      "info" : [
+        { "title": "training", "value": 18 },
+        { "title": "speed", "value": 17 },
+        { "title": "cost", "value": 150 }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Goblin",
+      "alias" : "goblin",
+      "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam possimus provident at velit natus corrupti quidem harum delectus soluta expedita. Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "img" : "goblin.png",
+      "lvl": 7,
+      "info" : [
+        { "title": "training", "value": 21 },
+        { "title": "speed", "value": 24 },
+        { "title": "cost", "value": 240 }
+      ]
+    }
+]
